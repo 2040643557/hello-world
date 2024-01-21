@@ -1,2 +1,2 @@
 # hello-world
-prompt
+show my initial
